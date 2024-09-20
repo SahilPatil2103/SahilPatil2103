@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Data & Business Analyst and a Data Science Enthusiast</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2822.jpg" />
 
-- 🔭 I’m currently **a final year student at SRM Institute of Science and Technology**
+- 🎓 I’m currently **a final year student at SRM Institute of Science and Technology**
 
 - 🧑🏻‍🏫 I am currently learning **Machine Learning**
 
