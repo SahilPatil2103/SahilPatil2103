@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **sahilpatil21122003@gmail.com**
 
-- 📄 Here is my Resume [Link](https://drive.google.com/file/d/1HsmI9zQcrPTDl2EISpNaYZZ-kMlWTKlD/view?usp=sharing)
+- 📄 Here is my Resume [Link](https://drive.google.com/file/d/1Wyp6kijOQqyDvucdHCUV2QzswwnMPMsD/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
