@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at **github.com/SahilPatil2103**
 
-- 📫 You can reach me at **sahilpatil21122003@gmail.com**
+- 📫 You can reach me at **sahilpatilimp@gmail.com**
 
-- 📄 Here is my Resume [Link](https://drive.google.com/file/d/1Wyp6kijOQqyDvucdHCUV2QzswwnMPMsD/view?usp=drive_link)
+- 📄 Here is my Resume [Link](https://drive.google.com/file/d/1Zcknaean617lvGE8MFaHScNC7aCqd51A/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
